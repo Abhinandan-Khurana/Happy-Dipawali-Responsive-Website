@@ -26,7 +26,8 @@ h2 span {
 }
 footer {
   margin-top: 4vh;
-  color: transparent;
+  /* color: transparent; */
+  color: white;
   text-align: right;
   align-content: right;
   font-size: 3vw;
